@@ -1,0 +1,5 @@
+sample,platform,protocol,primer_scheme,medaka_model,fastq_1,fastq_2,min_len,max_len
+SRR15693997,illumina,amplicon,artic_v3,,data/NGS/SRR15693997_1_illumina.fastq.gz,data/NGS/SRR15693997_2_illumina.fastq.gz,,
+SRR15694003,illumina,amplicon,artic_v3,,data/NGS/SRR15694003_1_illumina.fastq.gz,data/NGS/SRR15694003_2_illumina.fastq.gz,,
+SRR13020997,nanopore,amplicon,artic_v3,r941_prom_sup_variant_g507,data/NGS/SRR13020997_ont.fastq.gz,,300,1200
+ERR5729505,nanopore,amplicon,none,r941_min_sup_variant_g507,data/NGS/ERR5729505_ont.fastq.gz,,1400,2300

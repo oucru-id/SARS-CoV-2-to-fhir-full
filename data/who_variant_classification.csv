@@ -1,0 +1,14 @@
+who_label,classification,status_as_of,notes
+Alpha,previous_VOC,2023-03-16,De-escalated by WHO; B.1.1.7 lineage
+Beta,previous_VOC,2023-03-16,De-escalated by WHO; B.1.351 lineage
+Gamma,previous_VOC,2023-03-16,De-escalated by WHO; P.1 lineage
+Delta,previous_VOC,2023-03-16,De-escalated by WHO; B.1.617.2 lineage
+Epsilon,previous_VOI,2023-03-16,De-escalated by WHO
+Zeta,previous_VOI,2023-03-16,De-escalated by WHO
+Eta,previous_VOI,2023-03-16,De-escalated by WHO
+Theta,previous_VOI,2023-03-16,De-escalated by WHO
+Iota,previous_VOI,2023-03-16,De-escalated by WHO
+Kappa,previous_VOI,2023-03-16,De-escalated by WHO
+Lambda,previous_VOI,2023-03-16,De-escalated by WHO
+Mu,previous_VOI,2023-03-16,De-escalated by WHO
+Omicron,VOC,2023-03-16,Sole designated VOC as of this date; parent of currently circulating lineages
